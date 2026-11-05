@@ -45,5 +45,8 @@
 	},
 	"peerDependencies": {
 		"svelte": "^5.0.0"
+	},
+	"dependencies": {
+		"@sveltejs/vite-plugin-svelte": "^7.3.1"
 	}
 }
