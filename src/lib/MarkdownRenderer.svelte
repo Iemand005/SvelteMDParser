@@ -1,4 +1,5 @@
 <script lang="ts">
+	let { content }: { content: string } = $props();
 </script>
 
-<button>Test</button>
+<p>{content}</p>
